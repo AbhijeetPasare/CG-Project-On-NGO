@@ -1,5 +1,5 @@
 # CG-Project-On-NGO
-This Is The Project Made By Symbiosis Students For CG.
+This Project is made On NGO Management System Made By Symbiosis Students For CG.
 # NGO MANEGEMENT SYSTEM!
 # Presented by:-
        Abhijeet Pasare
